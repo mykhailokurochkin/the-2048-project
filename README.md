@@ -10,7 +10,7 @@ This is a clean, visually simple, and fully functional implementation of the cla
 
 ## Live Preview
 
-[ **https://mihakurochkin.github.io/the-2048-project/** ]
+**https://mykhailokurochkin.github.io/the-2048-project/**
 
 ---
 
