@@ -39,7 +39,7 @@ This project has minimal dependencies.
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/your-username/the-2048-project.git](https://github.com/your-username/the-2048-project.git)
+    git clone https://github.com/mykhailokurochkin/the-2048-project.git
     cd the-2048-project
     ```
 2.  **View the project:**
