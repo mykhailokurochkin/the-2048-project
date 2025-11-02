@@ -5,7 +5,7 @@ const Game = require('../modules/Game.class');
 const game = new Game();
 const button = document.querySelector('.button');
 
-const field = document.querySelector('.game-field');Z
+const field = document.querySelector('.game-field');
 
 const scoreElement = document.querySelector('.game-score');
 const bestScoreElement = document.querySelector('.best-score');
